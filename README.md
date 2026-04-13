@@ -1,6 +1,6 @@
-# I'm Prisoner — GitHub Pages site
+# I Have a Plan — GitHub Pages site
 
-This folder contains a simple landing page and a privacy policy for **I'm Prisoner**.
+This folder contains a simple landing page and a privacy policy for **I Have a Plan**.
 
 ## Files
 - `index.html` — landing page
@@ -8,7 +8,7 @@ This folder contains a simple landing page and a privacy policy for **I'm Prison
 - `assets/` — screenshots
 
 ## How to publish on GitHub Pages
-1. Create a new GitHub repository (e.g., `im-prisoner-site`)
+1. Create a new GitHub repository (e.g., `i-have-a-plan-site`)
 2. Upload all files from this folder to the repo root
 3. Go to **Settings → Pages**
 4. Under **Build and deployment**, select:
